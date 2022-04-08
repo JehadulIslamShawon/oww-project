@@ -1,0 +1,149 @@
+*{
+	background-color:yellow;
+	color:white;
+}
+ #section1{
+	 background-color:pink;
+ }
+ #section2{
+	background-color:aqua;
+	 
+ }
+ #section1 h1 b{
+	 color:burlywood;
+	 
+ }
+	 
+ 
+ .style1{
+	 color:green;
+ }
+ .style2{
+	 font-size:30px;
+ }
+
+ 
+ .tdr {
+	color:aqua; 
+ }
+ .love{
+	 color:red;
+	 font-size:100px;
+ }
+ .fire{
+	 color:aqua;
+	 background-color:aqua;
+	 font-size:3rem;
+ }
+ .my-style{
+	 font-size:40px;
+	 color:burlywood;
+	 background-color:aqua;
+	 font-family:Serif;
+ }
+ .ikk{
+	 font-size:40px;
+	 font-family:'syne Mono'monospace;
+	 color:aqua;
+ }
+ #ikk{
+	 background-color:red;
+	 color:aqua;
+	 border:3px solid green;
+ }
+ #lolo{
+	 background-color:aqua;
+	 text-align:center;
+	 font-size:40px;
+ }
+ 
+ 
+ 
+ a.my-link:hover{
+	 color:red;
+ }
+ 
+ a:hover{
+	 color:green;
+ }
+ a#mlk:hover{
+	 color:burlywood;
+ }
+ input{
+	 font-size:1rem;
+	 max-width:150px;
+	 padding:10px;
+	 border:10px solid black;
+	 margin:10px;
+	 
+ }
+ input:hover{
+	 background-color:red;
+	 
+ }
+ input.forinput:focus{
+	 color:green;
+	 background-color:slateblue;
+ }
+ .table1,td{
+	 
+	 border:1px solid black;
+ 
+ }
+ 
+ .table1 tr:nth-child(odd){
+	 text-align:left;
+	 background-color:white;
+	 color:black;
+	 font-size:30px;
+ }
+ .table1:hover{
+	 background-color:aqua;
+ }
+ 
+ p:hover{
+	 color:brown;
+ }
+ 
+ p.wtf::first-line{
+	 color:coral;
+	 font-size:3.5rem;
+ }
+ 
+ p#wtf::first-letter{
+	 color:blue;
+	 font-size:2.5rem;
+ }
+ 
+ p.mkmk::before{
+	 content:"জীবনটা ত্যানা ত্যানা ";
+	 color:black;
+ }
+ 
+ p.kmkm::after{
+	 content:"ভবিষ্যত তো আল্লাহর হাতে";
+	 color:maroon;
+	 background-color:pink;
+	 
+ }
+ 
+ p.kmn::selection{
+	 color:green;
+	 background-color:aqua;
+	 display:inline-block;
+ }
+ 
+ p.olk::before,.olk::after{
+	 content:"জীবনে চলার পথে অনেক কিছু যেমন হারাবে ঠিক তেমনি আবার অনেক কিছু পাবেও";
+	 color:aqua;
+	 display:inline-block;
+ }
+ 
+ .popo{
+	 color:black;
+	 background-color:aqua;
+	 display:inline-block;
+ }
+ 
+ 
+ 
